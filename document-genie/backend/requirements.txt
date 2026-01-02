@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+qdrant-client
+sentence-transformers
+PyMuPDF
+python-multipart
+aiofiles
+pymongo
+python-dotenv
+passlib[bcrypt]
+groq
+pydantic
