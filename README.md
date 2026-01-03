@@ -13,18 +13,17 @@ A smart assistant that enhances static PDF content into engaging learning module
 - Learning Visualization: Track and visualize your progress with interactive charts and graphs.
 
 
-💠 Tech Stack
+ Tech Stack
 🚀 Frontend
-React (Vite)
-TailwindCSS + Framer Motion
-Recharts for visualizations
-React Router for routing
-
+- React (Vite)
+- TailwindCSS + Framer Motion
+- Recharts for visualizations
+- React Router for routing
 
 🧠 Backend
-FastAPI
-MongoDB for structured data
-Qdrant for vector search
-SentenceTransformers for embedding
-Groq LLM for response generation
-JWT for authentication
+- FastAPI
+- MongoDB for structured data
+- Qdrant for vector search
+- SentenceTransformers for embedding
+- Groq LLM for response generation
+- JWT for authentication
